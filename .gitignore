@@ -6,4 +6,4 @@
 .terraform/
 
 # Private keys
-.pem
+*.pem
